@@ -1,0 +1,14 @@
+.headerStyle {
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+    margin : 5px;
+}
+
+.counterDivStyle {
+    color: red;
+    border: 1px solid black;
+    padding: 2px;
+    margin : 5px;
+    text-align: center;
+}
